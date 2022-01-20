@@ -1,0 +1,105 @@
+body {
+  background: #f1f1f1;
+}
+
+
+
+header a {
+  
+  display: block;
+  font-size: 13px;
+  
+  color: #fff;
+  margin: 0;
+  text-decoration: none;
+}
+
+
+.container section {
+  padding: 30px;
+  width: 25%;
+ 
+}
+.container section2 {
+  
+  width: 100%;
+ 
+}
+.container section1 {
+
+  width: 55%;
+  padding: 15px;
+  margin: 15px 0;
+}
+.container aside {
+  
+  width: 20%;
+ 
+  margin: 35px 0;
+}
+.container aside .signup {
+  background-color: bisque;
+  
+}
+footer {
+  color: white;
+  height: 630px;
+  background: rgb(29, 29, 29);
+}
+#hyper{
+  display: inline;
+}
+#hyper ul{
+  margin-left: 150px;
+} 
+#hyper li{
+  
+  font-size: 8px;
+  float: left;
+  padding: 15px;
+}
+
+.sit-navbar {
+  margin-bottom: 0px;
+  z-index: 1999;
+  position: absolute;
+  top: 20px;
+  left: 50%;
+
+  width: 100%;
+  border-radius: 4px; }
+  #ratinglist{
+    display: inline; 
+  }
+  #rating ul{
+  color: black;
+  }
+ 
+  #ratinglist li{
+    
+     font-size: 15px;
+    padding-right:10px; 
+
+   float: left;
+   
+  }
+  #ratinglist li a{
+    color: rgb(141, 141, 141);
+  }
+  #ratnav {
+   
+   overflow:visible;
+
+  }
+  #review{
+
+  outline: 0.1px solid #bebebe;
+padding: 7px;
+
+    color: rgb(138, 138, 138); padding-right: 10px;
+  }
+  #spacerev {
+    font-size: medium;
+    display: inline;
+    padding-left: 10px;
+  }
